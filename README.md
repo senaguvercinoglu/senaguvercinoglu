@@ -2,5 +2,8 @@
 
 BCSI-TR program is an online internship program by TUBU and MSKU-BcRG Lab
 
-Dairy
+Internship Dairy 
 
+Day 1
+
+At the first day of the internship we were talked about flow of the programme.Also we mentioned about blockchain basics and free software.
